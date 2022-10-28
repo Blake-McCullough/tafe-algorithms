@@ -1,1 +1,16 @@
-site_name: My Docs
+site_name: Blake McCullough
+theme: readthedocs
+nav:
+    - Home: index.md
+    - Lists: lists.md
+    - Arrays: arrays.md
+    - Linked Lists: linked_lists.md
+    - Stack: stack.md
+    - Queues: queues.md
+    - Tree: tree.md
+    - Graphs: graphs.md
+    - Sets: sets.md
+    - Hash Tables: hash_tables.md
+
+
+
